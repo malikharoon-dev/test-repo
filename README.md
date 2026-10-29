@@ -6,3 +6,4 @@ Alongside the work on Football tracker application and development
 this repo will be updated soon 
 thinking about the content that will be added
 Still thinking 
+i guess Mobile Application Development and Programming for Ai will 
